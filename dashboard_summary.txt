@@ -1,0 +1,11 @@
+SOC DASHBOARD SUMMARY
+
+Events:
+- Failed logins detected
+- Successful login detected
+- Sensitive file access detected
+
+Threat Level: MEDIUM
+
+Notes:
+System shows signs of suspicious activity.
